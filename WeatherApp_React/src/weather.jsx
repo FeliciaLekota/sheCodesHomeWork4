@@ -97,11 +97,8 @@ function Weather() {
               Felicia Lekota
             </a>
             ,{" "}
-            <a
-              href="https://earnest-stardust-f6c642.netlify.app/"
-              target="_blank"
-            >
-              hosted on Netlify
+            <a href="https://shecodeshomework4.onrender.com" target="_blank">
+              hosted on Render
             </a>
           </footer>
         </div>
